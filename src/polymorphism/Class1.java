@@ -20,6 +20,10 @@ public class Class1 {
 		return 10;
 	}
 	 
+	
+	void exceptionTest() throws ArithmeticException{
+		
+	}
 	 
 	
 
